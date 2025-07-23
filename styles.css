@@ -102,6 +102,22 @@
     text-decoration: none;
 }
 
+#elFormulario {
+  background-color: rgb(199, 196, 196);
+  box-shadow: black;
+  width: auto;
+  justify-content: space-between;
+  padding: 1vh;
+  border-radius: 5px;
+  margin-top: 3vh;
+  margin-bottom: 2vh;
+}
+
+.form-control {
+  margin-block: inherit;
+}
+
+
 
 :root,
 [data-bs-theme=light] {
