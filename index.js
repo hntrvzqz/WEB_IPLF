@@ -6,4 +6,12 @@ window.addEventListener('scroll', () => {
    }
 });
 
+const texto = document.querySelector('p');
+
+window.addEventListener('scroll', () => {
+    if (window.IntersectionObserver >= 5) {
+        console.log("apareci mirame")
+    }
+})
+
 
