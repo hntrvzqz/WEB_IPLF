@@ -14,4 +14,9 @@ window.addEventListener('scroll', () => {
     }
 })
 
+/*
+bien, en cuanto al javascript. quiero implementar esta funcion interseccionObserver, para que cuando aparescan los parravos en el viewport, puedan aparecer con la propuedad display.block, pero cuando no esten que sean display.none para que  ocurra el efecto de que aparece y desaparece. 
+
+*/
+
 
